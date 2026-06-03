@@ -1,0 +1,6 @@
+{
+  "name": "SecureChat",
+  "description": "A real-time chat application with end-to-end encryption",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
